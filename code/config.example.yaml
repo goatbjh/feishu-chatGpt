@@ -7,4 +7,13 @@ APP_VERIFICATION_TOKEN: kXX7NKccc30PqvglS3qOqelnLefG2giZ
 BOT_NAME: ChatgptBot
 # openAI
 OPENAI_KEY: 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
-
+# 服务器配置
+HTTP_PORT: 9000
+HTTPS_PORT: 9001
+USE_HTTPS: false
+CERT_FILE: cert.pem
+KEY_FILE: key.pem
+# openai 地址, 一般不需要修改, 除非你有自己的反向代理
+API_URL: https://openai.52xuexi.club
+# 代理设置, 例如 "http://127.0.0.1:7890", ""代表不使用代理
+HTTP_PROXY: ""
