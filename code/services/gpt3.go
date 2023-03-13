@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	BASEURL     = "https://api.openai.com/v1/"
+	BASEURL     = "https://openai.52xuexi.club/v1/"
 	maxTokens   = 2000
 	temperature = 0.7
 	engine      = "gpt-3.5-turbo"
