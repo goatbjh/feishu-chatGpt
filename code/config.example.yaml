@@ -1,12 +1,12 @@
 #  飞书
-APP_ID: cli_a337e987eab9d013
-APP_SECRET: 65wnEtI2p8RBEJWXY70UicrvzNUF3UMX
-APP_ENCRYPT_KEY: goatbjh
-APP_VERIFICATION_TOKEN: kXX7NKccc30PqvglS3qOqelnLefG2giZ
+APP_ID: 
+APP_SECRET: 
+APP_ENCRYPT_KEY: 
+APP_VERIFICATION_TOKEN: 
 # 请确保和飞书应用管理平台中的设置一致
-BOT_NAME: ChatgptBot
+BOT_NAME: 
 # openAI
-OPENAI_KEY: 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
+OPENAI_KEY: 
 # 服务器配置
 HTTP_PORT: 9000
 HTTPS_PORT: 9001
@@ -14,6 +14,6 @@ USE_HTTPS: false
 CERT_FILE: cert.pem
 KEY_FILE: key.pem
 # openai 地址, 一般不需要修改, 除非你有自己的反向代理
-API_URL: https://openai.52xuexi.club
+API_URL: 
 # 代理设置, 例如 "http://127.0.0.1:7890", ""代表不使用代理
 HTTP_PROXY: ""
